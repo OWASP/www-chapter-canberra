@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Canberra
 tags: example-tag
 region: 
+meetup-group: OWASP-Canberra-Chapter
+country: Australia
+postal-code: 
 
 ---
 

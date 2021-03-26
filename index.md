@@ -43,14 +43,17 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Sponsor our Chapter
 If you are interested in sponsoring our chapter or an event , there are three different sponsorship options:
 
-# Single Meeting Supporter - Organizations that wish to support OWASP local chapter with donation to enable OWASP Foundation to continue the mission.
+# Single Meeting Supporter
+Organizations that wish to support OWASP local chapter with donation to enable OWASP Foundation to continue the mission.
 Benefits include being recognized as a local supporter by posting the company logo on the OWASP Chapter website, and having a table at local chapter meeting to promote application security products/services etc.
 The dollar amount for this is set by each local chapter.
 
-# Local Chapter Supporter - Organizations that are not yet interested in becoming full Organizational Supporters but who have a desire to direct their support in a more regional manner may prefer to become a Chapter Supporter.
+# Local Chapter Supporter
+Organizations that are not yet interested in becoming full Organizational Supporters but who have a desire to direct their support in a more regional manner may prefer to become a Chapter Supporter.
 Benefits include being recognized as a local supporter by posting the company logo on the OWASP Chapter website, and having (1) supporting member vote in elections and on issues that shape the direction of the community.
 Suggested dollar amounts are $500 (Silver), $1,000 (Gold), and $2,000 (Platinum) per year.
 
+# Contact
 Please feel free to contact Akshay Gupta via Akshay.Gupta@owasp.org for all enquiries.
 
 <!-- Standard Chapter Page Template

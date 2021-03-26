@@ -27,6 +27,20 @@ region: This is the region you are in according to our data
 ## Welcome
 Include some information here about your chapter
 
+## Our Goals
+
+## Equality
+We aim to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and equality in cybersecurity.
+
+## Education
+We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to cybersecurity, and provide talks from industry professionals to showcase all cybersecurity has to offer.
+
+## Community
+We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
+
+## Industry Insights
+No cybersecurity professional would feel complete without latest Industry insights and we will aim to hold various Industry leaders led sessions/talks from time to time.
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
@@ -51,7 +65,12 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+Welcome to the Canberra chapter of OWASP home page!
+
+The OWASP Canberra Chapter was active in 2013 and is being rebooted in 2020. We organise local face to face and online events throughout the year.
+
+Please feel free to contact the chapter leaders Toby Amodio or Akshay Gupta for any information/suggestion or feedback via email links provided in the section on right.
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

@@ -25,7 +25,11 @@ region: This is the region you are in according to our data
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the Canberra Chapter of OWASP home page!
+
+The OWASP Canberra Chapter was active in 2013 and is being rebooted in 2020. We organise local events throughout the year.
+
+The chapter leaders are Toby Amodio & Akshay Gupta.
 
 ## Our Goals
 

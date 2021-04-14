@@ -3,7 +3,7 @@ title: sponsors
 displaytext: Sponsors
 layout:  col-sidebar
 tab: true
-order: 4
+order: 2
 tags: canberra
 ---
 

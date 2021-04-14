@@ -4,7 +4,7 @@ displaytext: Sponsors
 layout:  col-sidebar
 tab: true
 order: 2
-tags: canberra
+tags: Canberra
 ---
 
 

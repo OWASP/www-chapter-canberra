@@ -10,6 +10,8 @@ postal-code: 2600
 
 ---
 
+<img src="assets/images/logo-cbr.png" style="width:45%" class="center">
+
 ## Welcome
 Welcome to the Canberra Chapter of OWASP home page!
 

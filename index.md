@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Canberra
-tags: #OWASPCanberra
+tags: Canberra
 region: Oceania
 meetup-group: OWASP-Canberra-Chapter
 country: Australia

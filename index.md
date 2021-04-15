@@ -39,6 +39,22 @@ We are always open to speakers who want to present a talk that aligns with our C
 # Upcoming Events!
 Please join our meetup group to stay updated on latest events. Our next event will be scheduled soon via Zoom in last week of April 21. Details to follow.
 
+<section style='background-color:#f3f4f6;'>
+    <strong>Event:</strong>Canberra OWASP Online Get Together<br/>
+    <strong>Date:</strong> 28th April 2021 6PM<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
+</section><br/>
+
+<section style='background-color:#f3f4f6;'>
+    <strong>Event:</strong> Cyber Skill Building - Online Presentation <br/>
+    <strong>Proposed Date:</strong> In May 2021 - Dates to be confirmed<br/>
+</section><br/>
+
+<section style='background-color:#f3f4f6;'>
+    <strong>Event:</strong> Informal Get Together - TBC <br/>
+    <strong>Proposed Date:</strong> June 2021<br/>
+</section><br/>
+
 # Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 

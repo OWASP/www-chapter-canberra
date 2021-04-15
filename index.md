@@ -19,7 +19,7 @@ The OWASP Canberra Chapter was active in 2013 and was rebooted in 2020. We are a
 
 The chapter leaders are Toby Amodio & Akshay Gupta.
 
-## Our Goals
+### Our Goals
 
 # Equality
 We aim to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and equality in cybersecurity.

@@ -40,19 +40,25 @@ We are always open to speakers who want to present a talk that aligns with our C
 Please join our meetup group to stay updated on latest events. Our next event will be scheduled soon via Zoom in last week of April 21. Details to follow.
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong>Canberra OWASP Online Get Together<br/>
-    <strong>Date:</strong> 28th April 2021 6PM<br/>
+    <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>
+    <strong>Date:</strong> 28th April 2021 6:00 pm - 7:00 pm<br/>
     <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Cyber Skill Building - Online Presentation <br/>
-    <strong>Proposed Date:</strong> In May 2021 - Dates to be confirmed<br/>
+    <strong>Event:</strong> Online Presentation - Cyber Skill Building with Toby Amodio CISO Australian Taxation Office <br/>
+    <strong>Proposed Date:</strong> 19th May 2021 - 6:00 pm - 7:00 pm<br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - TBC <br/>
-    <strong>Proposed Date:</strong> June 2021<br/>
+    <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>
+    <strong>Date:</strong> 16th Jun 2021 6:00 pm - 7:00 pm<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
+</section><br/>
+
+<section style='background-color:#f3f4f6;'>
+    <strong>Event:</strong> Cyber Assessment? - TBC <br/>
+    <strong>Proposed Date:</strong>21st July 2021<br/>
 </section><br/>
 
 ***Participation***<br/>

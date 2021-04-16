@@ -48,17 +48,19 @@ Please join our meetup group to stay updated on latest events. Our next event wi
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Cyber Skill Building with Toby Amodio CISO Australian Taxation Office <br/>
     <strong>Proposed Date:</strong> 19th May 2021 - 6:00 pm - 7:00 pm<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>
+    <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online Meet and Greet <br/>
     <strong>Date:</strong> 16th Jun 2021 6:00 pm - 7:00 pm<br/>
     <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Cyber Assessment? - TBC <br/>
-    <strong>Proposed Date:</strong>21st July 2021<br/>
+    <strong>Event:</strong> Online Presentation - Insights into Cyber Assessment - TBC <br/>
+    <strong>Proposed Date:</strong>21st July 2021 - 6:00 pm - 7:00 pm<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
 </section><br/>
 
 ***Participation***<br/>

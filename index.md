@@ -19,24 +19,24 @@ The OWASP Canberra Chapter was active in 2013 and was rebooted in 2020. We are a
 
 The chapter leaders are Toby Amodio & Akshay Gupta.
 
-### Our Goals
+## Our Goals
 
-# Equality
+***Equality*** <br/>
 We aim to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and equality in cybersecurity.
 
-# Education
+***Education*** <br/>
 We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to cybersecurity, and provide talks from industry professionals to showcase all cybersecurity has to offer.
 
-# Community
+***Community***<br/>
 We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
 
-# Industry Insights
+***Industry Insights***<br/>
 No cybersecurity professional would feel complete without latest Industry insights and we will aim to hold various Industry leaders led sessions/talks from time to time.
 
-# Interested In Speaking?
+***Interested In Speaking?***<br/>
 We are always open to speakers who want to present a talk that aligns with our Chapter goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to [Akshay Gupta](mailto:Akshay.Gupta@owasp.org).
 
-# Upcoming Events!
+## Upcoming Events!
 Please join our meetup group to stay updated on latest events. Our next event will be scheduled soon via Zoom in last week of April 21. Details to follow.
 
 <section style='background-color:#f3f4f6;'>
@@ -55,13 +55,13 @@ Please join our meetup group to stay updated on latest events. Our next event wi
     <strong>Proposed Date:</strong> June 2021<br/>
 </section><br/>
 
-# Participation
+***Participation***<br/>
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Everyone is welcome and encouraged to participate in our [Projects](https://owasp.org/projects/), [Local Chapters](https://owasp.org/chapters/), [Events](https://owasp.org/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](https://owasp.org/membership/) or consider a [donation](https://owasp.org/donate/) to support our ongoing work.
 
-## Sponsor our Chapter
+***Sponsor our Chapter***<br/>
 If you are interested in sponsoring our chapter or an event , please contact us via email.
 
-# Contact
-Please feel free to contact Akshay Gupta via Akshay.Gupta@owasp.org for all enquiries.
+***Contact***<br/>
+Please feel free to contact  [Toby Amodio (ne Mcmohan)](mailto:Toby.Amodio@owasp.org) or  [Akshay Gupta](mailto:Akshay.Gupta@owasp.org) for all enquiries.

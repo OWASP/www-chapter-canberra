@@ -37,32 +37,28 @@ No cybersecurity professional would feel complete without latest Industry insigh
 We are always open to speakers who want to present a talk that aligns with our Chapter goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to [Akshay Gupta](mailto:Akshay.Gupta@owasp.org).
 
 ## Upcoming Events!
-Please join our meetup group to stay updated on latest events. Our next event will be scheduled soon via Zoom in last week of April 21. Details to follow.
+Please join our meetup group to stay updated on latest events. All Our Online events will be usually scheduled via Zoom and face to face events venues may vary. Please follow this page and <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">OWASP Canberra Meetup Groups</a> group for more upto date details of all the events.
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>
     <strong>Date:</strong> 28th April 2021 6:00 pm - 7:00 pm<br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
-     <strong>Link:</strong> <a href="https://zoom.us/j/98065495818">Join Zoom Meeting https://zoom.us/j/98065495818</a> <br/>
+    <strong>Link:</strong> <a href="https://zoom.us/j/98065495818">Join Zoom Meeting https://zoom.us/j/98065495818</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Cyber Skill Building with Toby Amodio CISO Australian Taxation Office <br/>
     <strong>Proposed Date:</strong> 19th May 2021 - 6:00 pm - 7:00 pm<br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
-</section><br/>
+    </section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online Meet and Greet <br/>
     <strong>Date:</strong> 16th Jun 2021 6:00 pm - 7:00 pm<br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
-</section><br/>
+  </section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Insights into Cyber Assessment - TBC <br/>
     <strong>Proposed Date:</strong>21st July 2021 - 6:00 pm - 7:00 pm<br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
-</section><br/>
+   </section><br/>
 
 ***Participation***<br/>
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

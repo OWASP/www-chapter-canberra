@@ -43,6 +43,7 @@ Please join our meetup group to stay updated on latest events. Our next event wi
     <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>
     <strong>Date:</strong> 28th April 2021 6:00 pm - 7:00 pm<br/>
     <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">https://www.meetup.com/OWASP-Canberra-Chapter/</a> <br/>
+     <strong>Link:</strong> <a href="https://zoom.us/j/98065495818">Join Zoom Meeting https://zoom.us/j/98065495818</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>

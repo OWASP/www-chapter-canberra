@@ -37,7 +37,7 @@ No cybersecurity professional would feel complete without latest Industry insigh
 We are always open to speakers who want to present a talk that aligns with our Chapter goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to [Akshay Gupta](mailto:Akshay.Gupta@owasp.org).
 
 ## Upcoming Events!
-Please join our meetup group to stay updated on latest events. All Our Online events will be usually scheduled via Zoom and face to face events venues may vary. Please follow OWASP Canberra Chapter (this) page and </strong> <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">OWASP Canberra Meetup Group</a> page for more upto date details of all the events.
+Please join our meetup group to stay updated on latest events. All Our Online events will be usually scheduled via Zoom and face to face events venues may vary. Please follow OWASP Canberra Chapter (this) page and <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">OWASP Canberra Meetup Group</a> page for more upto date details of all the events.
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>

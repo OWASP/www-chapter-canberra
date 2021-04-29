@@ -42,10 +42,10 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Cyber Skill Building with Toby Amodio CISO Australian Taxation Office <br/>
     <strong>Proposed Date:</strong> 18th May 2021 - 6:00 pm - 7:00 pm<br/>
-     <strong>Link:</strong> Join Zoom Meeting (link to follow)</a> <br/>
+     <strong>Link:</strong> <a href="https://zoom.us/j/98065495818">Join Zoom Meeting https://zoom.us/j/97094568063 </a> <br/>
     </section><br/>
 
-<section style='background-color:#f3f4f6;'>
+<section style='background-color:#f3f4f6;'> 
     <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online Meet and Greet <br/>
     <strong>Date:</strong> 16th Jun 2021 6:00 pm - 7:00 pm<br/>
   </section><br/>

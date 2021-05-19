@@ -3,7 +3,7 @@ title: Downloads
 displaytext: Downloads
 layout:  col-sidebar
 tab: true
-order: 2
+order: 3
 tags: Canberra
 ---
 

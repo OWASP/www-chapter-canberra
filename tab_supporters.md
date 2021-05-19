@@ -9,4 +9,4 @@ tags: Canberra
 
 
 ## Supporters
-We are looking for supportersd for Events & chapters, please feel free to contact us if you would like to support OWASP.
+We are always looking for supporters for Events & chapters, please feel free to contact us if you would like to support OWASP.

@@ -1,10 +1,10 @@
 ---
-title: Downloads
-displaytext: Downloads
-layout: col-sidebar
-tab: true
-order: 3
-tags: Canberra
+title:Downloads
+displaytext:Downloads
+layout:col-sidebar
+tab:true
+order:3
+tags:Canberra
 ---
 
 

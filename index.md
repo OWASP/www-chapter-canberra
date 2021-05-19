@@ -48,8 +48,8 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
     <strong>Event:</strong> Online Presentation - Insights into Cyber Assessment - TBC <br/>
     <strong>Proposed Date:</strong>21st July 2021 - 6:00 pm - 7:00 pm<br/>
    </section><br/>
-   
- ## Past Events!
+
+## Past Events!
  
  <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Cyber Skill Building with Toby Amodio CISO Australian Taxation Office <br/>

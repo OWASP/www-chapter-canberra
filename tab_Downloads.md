@@ -1,7 +1,7 @@
 ---
 title: Downloads
 displaytext: Downloads
-layout:  col-sidebar
+layout: col-sidebar
 tab: true
 order: 3
 tags: Canberra

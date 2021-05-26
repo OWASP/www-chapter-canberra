@@ -1,11 +1,12 @@
 ---
-title: Leaders
+title: leaders
 displaytext: Leaders
 layout: col-sidebar
 tab: true
 order: 4
 tags: Canberra
 ---
+
 ### Canberra Chapter Leaders
 ***1. Toby Amodio 
 

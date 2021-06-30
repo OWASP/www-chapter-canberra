@@ -42,7 +42,7 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
 
 {% include chapter_events.html group=page.meetup-group %}
 
-<section style='background-color:#f3f4f6;'>
+   <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Insights into Cyber Assessment - By Anish Nadathur <br/>
     <strong>Proposed Date:</strong>21st July 2021 - 6:00 pm - 7:00 pm<br/>
    </section><br/>
@@ -53,7 +53,7 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
   </section><br/>
    
    <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> OWASP 20th Anniversary event <a href="https://20thanniversary.owasp.org/"> <br/>
+    <strong>Event:</strong>  <a href="https://20thanniversary.owasp.org/">OWASP 20th Anniversary event</a> <br/>
     <strong>Proposed Date:</strong>24th Sep 2021 - 24 hrs event<br/>
    </section><br/>
 

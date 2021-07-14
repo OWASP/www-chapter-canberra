@@ -43,7 +43,7 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
 {% include chapter_events.html group=page.meetup-group %}
 
    <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Online Presentation - Insights into Cyber Assessment - By Anish Nadathur <br/>
+    <strong>Event:</strong> A Layered Approach to Cyber Security Assessments - By Anish Nadathur <br/>
     <strong>Proposed Date:</strong>21st July 2021 - 6:00 pm - 7:00 pm<br/>
     <strong>Link:</strong> <a href="https://zoom.us/j/98065495818">Join Zoom Meeting https://zoom.us </a> <br/>
    </section><br/>

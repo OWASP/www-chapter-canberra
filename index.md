@@ -43,8 +43,8 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
 {% include chapter_events.html group=page.meetup-group %}
    
    <section style='background-color:#f3f4f6;'> 
-    <strong>Event:</strong> Drop In Session - Canberra OWASP Online Meet and Greet <br/>
-    <strong>Proposed Date:</strong> 18th Aug 2021 6:00 pm - 7:00 pm<br/>
+    <strong>Event:</strong> Online Event - Static Code Analysis - Technical Deep Dive with Cole Crawford <br/>
+    <strong>Proposed Date:</strong> 15th Sep 2021 6:00 pm - 7:00 pm<br/>
   </section><br/>
    
    <section style='background-color:#f3f4f6;'>
@@ -56,18 +56,18 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
  
  <section style='background-color:#f3f4f6;'> 
     <strong>Event:</strong> Drop In Session - Canberra OWASP Online Meet and Greet <br/>
-    <strong>Proposed Date:</strong> 16th Jun 2021 6:00 pm - 7:00 pm<br/>
+    <strong>Proposed Date:</strong> Alternate Months ( Apr, June, Aug, Oct, Dec 2021) - 3rd Wednesday @ 6:00 pm - 7:00 pm<br/>
   </section><br/>
  
  <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Online Presentation - Cyber Skill Building with Toby Amodio CISO Australian Taxation Office <br/>
     <strong>Date:</strong> 18th May 2021 - 6:00 pm - 7:00 pm<br/>
     </section><br/>
- 
- <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Drop In Session - Canberra OWASP Revamp Online meet and greet <br/>
-    <strong>Date:</strong> 28th April 2021 6:00 pm - 7:00 pm<br/>
-</section><br/>
+    
+  <section style='background-color:#f3f4f6;'>
+    <strong>Event:</strong> Online Presentation - A layered approach to Cyber Security Assessments with Anish, Lead, Cyber Assessments <br/>
+    <strong>Date:</strong> 21st Jul 2021 - 6:00 pm - 7:00 pm<br/>
+    </section><br/>
 
 ***Participation***<br/>
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

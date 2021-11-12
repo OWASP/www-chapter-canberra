@@ -43,18 +43,19 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
 {% include chapter_events.html group=page.meetup-group %}
    
    <section style='background-color:#f3f4f6;'> 
-    <strong>Event:</strong> Online Event - Static Code Analysis - Technical Deep Dive with Cole Crawford <br/>
-    <strong>Proposed Date:</strong> 15th Sep 2021 6:00 pm - 7:00 pm<br/>
+    <strong>Event:</strong> Online Event -Avoid IaC misconfigurations across the different platforms <br/>
+    <strong>Details:</strong> via zoom https://us06web.zoom.us/j/97094568063 on 17th Nov 2021 6:00 pm - 7:00 pm<br/>
   </section><br/>
    
-   <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong>  <a href="https://20thanniversary.owasp.org/">OWASP 20th Anniversary event</a> <br/>
-    <strong>Proposed Date:</strong>24th Sep 2021 - 24 hrs event<br/>
-   </section><br/>
 
 ## Past Events!
  
- <section style='background-color:#f3f4f6;'> 
+  <section style='background-color:#f3f4f6;'> 
+    <strong>Event:</strong> Online Event - Static Code Analysis - Technical Deep Dive with Cole Crawford <br/>
+    <strong>Proposed Date:</strong> 15th Sep 2021 6:00 pm - 7:00 pm<br/>
+  </section><br/>
+  
+  <section style='background-color:#f3f4f6;'> 
     <strong>Event:</strong> Drop In Session - Canberra OWASP Online Meet and Greet <br/>
     <strong>Proposed Date:</strong> Alternate Months ( Apr, June, Aug, Oct, Dec 2021) - 3rd Wednesday @ 6:00 pm - 7:00 pm<br/>
   </section><br/>

@@ -11,14 +11,13 @@ postal-code: 2600
 ---
 
 <img src="assets/images/logo-cbr.png" style="width:45%" class="center">
-<img src="assets/images/twenty.png" style="width:45%" class="center">
 
 ## Welcome
 Welcome to the Canberra Chapter of OWASP home page!
 
-The OWASP Canberra Chapter was active in 2013 and was rebooted in 2020. We are aiming to organise local events throughout the year.
+The OWASP Canberra Chapter was active in 2013 and was rebooted again by Akshay Gupta. We are aiming to organise local events throughout the year.
 
-The chapter leaders are Toby Amodio & Akshay Gupta.
+The chapter leaders are Toby Amodio and Akshay Gupta.
 
 ## Our Goals
 
@@ -42,17 +41,21 @@ Please join our meetup group to stay updated on latest events. All Our Online ev
 
 {% include chapter_events.html group=page.meetup-group %}
 
+##Past Events
+
  <section style='background-color:#f3f4f6;'> 
     <strong>Event:</strong> Drop In Session - Canberra OWASP Online Meet and Greet session and a powerful knowledge session delivered by with Toby (CISO, Department of Parliament)<br/>
     <strong>Details:</strong> via zoom https://us06web.zoom.us/j/97094568063 on 29th March 2022 6:00 pm - 7:00 pm<br/>
   </section><br/>
-   
-
-## Past Events!
 
  <section style='background-color:#f3f4f6;'> 
     <strong>Event:</strong> Online Event -Avoid IaC misconfigurations across the different platforms <br/>
     <strong>Details:</strong> via zoom https://us06web.zoom.us/j/97094568063 on 17th Nov 2021 6:00 pm - 7:00 pm<br/>
+  </section><br/>
+  
+   <section style='background-color:#f3f4f6;'> 
+    <strong>Event:</strong> Drop In Session - Canberra OWASP Online Meet and Greet session and a powerful knowledge session delivered by with Akshay Gupta, Cyber and Cloud Security Architect and Specialist<br/>
+    <strong>Details:</strong> via zoom https://us06web.zoom.us/j/97094568063 on 18th Nov 2022 6:00 pm - 7:00 pm<br/>
   </section><br/>
  
   <section style='background-color:#f3f4f6;'> 

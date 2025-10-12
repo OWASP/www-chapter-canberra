@@ -7,9 +7,4 @@
  * [Donation](https://owasp.org/donate/) 
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Canberra-Chapter/)
-* [Facebook](https://www.facebook.com/OWASP-Canberra-chapter-103638748524616/)
-* [Community Slack Channel](https://owasp.slack.com/)
-
-
-
+* [Meetup](https://www.meetup.com/meetup-group-uzosxjkj/)

@@ -10,34 +10,13 @@ postal-code: 2600
 
 ---
 
-<img src="assets/images/logo-cbr.png" style="width:45%" class="center">
-
 ## Welcome
 Welcome to the Canberra Chapter of OWASP home page!
 
-The OWASP Canberra Chapter was active in 2013 and was rebooted again by Akshay Gupta. We are aiming to organise local events throughout the year.
-
-The chapter leaders are Toby Amodio and Akshay Gupta.
-
 ## Our Goals
 
-***Equality*** <br/>
-We aim to bring together people from research, academia and industry to motivate, and empower others to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and equality in cybersecurity.
-
-***Education*** <br/>
-We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to cybersecurity, and provide talks from industry professionals to showcase all cybersecurity has to offer.
-
-***Community***<br/>
-We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
-
-***Industry Insights***<br/>
-No cybersecurity professional would feel complete without latest Industry insights and we will aim to hold various Industry leaders led sessions/talks from time to time.
-
-***Interested In Speaking?***<br/>
-We are always open to speakers who want to present a talk that aligns with our Chapter goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to [Akshay Gupta](mailto:Akshay.Gupta@owasp.org).
-
 ## Upcoming Events!
-Please join our meetup group to stay updated on latest events. All Our Online events will be usually scheduled via Zoom and face to face events venues may vary. Please follow OWASP Canberra Chapter (this) page and <a href="https://www.meetup.com/OWASP-Canberra-Chapter/">OWASP Canberra Meetup Group</a> page for more upto date details of all the events.
+Please join our meetup group to stay updated on latest events. All Our Online events will be usually scheduled via Zoom and face to face events venues may vary. Please follow OWASP Canberra Chapter (this) page and <a href="https://www.meetup.com/meetup-group-uzosxjkj/">OWASP Canberra Meetup Group</a> page for more upto date details of all the events.
 
 {% include chapter_events.html group=page.meetup-group %}
 

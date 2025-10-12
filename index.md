@@ -1,10 +1,9 @@
 ---
-
 layout: col-sidebar
 title: OWASP Canberra
 tags: Canberra
 region: Oceania
-meetup-group: OWASP-Canberra-Chapter
+meetup-group: meetup-group-uzosxjkj
 country: Australia
 postal-code: 2600
 
@@ -66,4 +65,4 @@ Everyone is welcome and encouraged to participate in our [Projects](https://owas
 If you are interested in sponsoring our chapter or an event , please contact us via email.
 
 ***Contact***<br/>
-Please feel free to contact  [Toby Amodio (ne Mcmohan)](mailto:Toby.Amodio@owasp.org) or  [Akshay Gupta](mailto:Akshay.Gupta@owasp.org) for all enquiries.
+Please feel free to contact either leader in the Leaders section. 
